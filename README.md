@@ -19,6 +19,8 @@ This repository includes all the games made using **SDL2 (Simple DirectMedia Lay
    - **Windows Users:**
      - Use the **MSYS2** distribution of **MinGW** (it provides an Arch-like subsystem).
      - Then follow the Linux installation method inside the MSYS2 terminal.
+     - [Video Link For Installation Part1 ](https://www.youtube.com/watch?v=qH-9UAsI9h8&ab_channel=AtoZProgrammingTutorials)
+     - [Video Link For Installation Part2 ](https://www.youtube.com/watch?v=GVMrllOh44U)
 
 3. Compile your C code with proper linking:
    - **For Tic Tac Toe (Terminal):**
